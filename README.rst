@@ -1,6 +1,6 @@
 This program is Python 2 and 3 friendly. Link to PyPi site:
 
-https://pypi.python.org/pypi?:action=display&name=tpzm_integration&version=1.0.2
+https://pypi.python.org/pypi/tpzm_integration
 
 You can install it with Pip, or with setup.py install.
 
