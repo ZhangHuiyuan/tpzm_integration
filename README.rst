@@ -1,4 +1,4 @@
-This program is Python 2 and 3 friendly. Link to PyPi site:
+This program is Python 2 and 3 friendly. Link to PyPI site:
 
 https://pypi.python.org/pypi/tpzm_integration
 
