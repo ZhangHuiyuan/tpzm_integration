@@ -2,7 +2,7 @@ from distutils.core import setup
 
 setup(
     name = 'tpzm_integration',
-    version = '1.0.3',
+    version = '1.0.4',
     py_modules = ['tpzm_integration'],
     author = 'ZhangHuiYuanEric',
     author_email = 'zhanghuiyuanses@126.com',
